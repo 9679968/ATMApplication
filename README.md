@@ -1,4 +1,4 @@
-# ATMApplication
+# Space Defender Game
 
 ![alt text][logo]
 
