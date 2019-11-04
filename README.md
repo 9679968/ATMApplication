@@ -5,4 +5,4 @@
 [logo]: https://github.com/9679968/SpaceDefenderGame/blob/master/src/images/class%20diagram.io.png
 
 
-This ATM application gives the user the ability to create a simulated mock account and make deposits and withrdrawals through a text document. the text document will save the mock account and make the total money withing the acount saved as well for future reference to use the account. You also get to activate and deactivate a mock account for avaliability. Then there is a choice of languages to choose from that are most common in the area, probably three languages. not including english. the ATM application will give the ability to make transactions and not have to interact with bank staff.
+This application for the use of a game where you are earth from a third person view where you will shoot lasers(collection) to destroy aseroids (collection). there will be upgrades that can upgrade the planet at a certain pace and you cannot go back when you choose an upgrade within a path. There will also be enemy ships that will also be a collection. then there will be a boss implmented into the class diagram that hasnot been completed yet.
