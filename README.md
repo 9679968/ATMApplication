@@ -2,7 +2,7 @@
 
 ![alt text][logo]
 
-[logo]:
+[logo]: https://github.com/9679968/SpaceDefenderGame/blob/master/src/images/Screen%20Shot%202019-11-22%20at%208.45.35%20AM.png
 
 [logo]: https://github.com/9679968/SpaceDefenderGame/blob/master/src/images/class%20diagram.io.png
 
