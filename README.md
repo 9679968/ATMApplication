@@ -2,6 +2,8 @@
 
 ![alt text][logo]
 
+[logo]:
+
 [logo]: https://github.com/9679968/SpaceDefenderGame/blob/master/src/images/class%20diagram.io.png
 
 
